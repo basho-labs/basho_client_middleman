@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "basho_client_middleman"
   spec.version       = BashoClientMiddleman::VERSION
   spec.authors       = ["Bryce Kerley"]
-  spec.email         = ["bkerley@brycekerley.net"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["bryce@basho.com"]
+  spec.summary       = %q{Shared assets for Basho client documentation sites.}
+  spec.description   = %q{Shared images, stylesheets, and javascripts for Basho Riak client documentation sites built using Middleman.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
